@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shui/.android/build-cache/2f56121887973bc0fcaed2e7cb478215dda82112/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a510df52da6402338b2debf32e637277de18c293">
+        <dex dex="/Users/shui/workspace/androidpratice/GreenDaoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9599918935ddea84d9290b6c40cff726bac8891/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shui/workspace/androidpratice/GreenDaoExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/shui/workspace/androidpratice/GreenDaoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22899d39262a19d03854b7fd2315a806a84ff48d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shui/workspace/androidpratice/GreenDaoExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a57aa15bdb94165aaa89e87d2d0b245e4f0c91d6">
+        <dex dex="/Users/shui/workspace/androidpratice/GreenDaoExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b65bc9a93449949f44700cdd165744560019e777/classes.dex" />
+    </item>
+
+</items>
